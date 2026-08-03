@@ -1,4 +1,4 @@
-# 📱 ใบงานปฏิบัติที่ 3: UI/UX Design — จาก Mockup สู่ Flutter
+<img width="822" height="601" alt="image" src="https://github.com/user-attachments/assets/43bd272f-970f-4416-b6d3-4ce4a9f16e08" /># 📱 ใบงานปฏิบัติที่ 3: UI/UX Design — จาก Mockup สู่ Flutter
 
 > **วิชา:** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่  
 > **สัปดาห์ที่:** 3  
@@ -379,9 +379,8 @@ Prompt ที่ไม่ดี:
 
 Screenshot หน้าจอ Design ทั้ง 3 หน้า และบันทึกข้อมูลสรุป:
 
-```image
-วางรูปหน้าจอ ที่นี่
-```
+<img width="822" height="601" alt="image" src="https://github.com/user-attachments/assets/951896da-bab8-43e6-84ef-45abdcb69ee4" />
+
 
 ---
 
