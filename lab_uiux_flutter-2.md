@@ -873,17 +873,18 @@ flutter run
 ```
 
 ตรวจสอบความถูกต้อง:
-- [ ] App Bar แสดงชื่อ "Green Market"
-- [ ] แสดงรายการสินค้า Card ทั้ง 4 รายการถูกต้อง
-- [ ] กด Card สินค้าแล้ว Navigate ไปยัง Detail Screen ได้
-- [ ] กด Back / ปุ่มย้อนกลับได้ถูกต้อง
-- [ ] Bottom Navigation สลับ Tab ได้
-- [ ] FAB แสดง SnackBar เมื่อถูกคลิก
+- [ / ] App Bar แสดงชื่อ "Green Market"
+- [ / ] แสดงรายการสินค้า Card ทั้ง 4 รายการถูกต้อง
+- [ / ] กด Card สินค้าแล้ว Navigate ไปยัง Detail Screen ได้
+- [ / ] กด Back / ปุ่มย้อนกลับได้ถูกต้อง
+- [ / ] Bottom Navigation สลับ Tab ได้
+- [ / ] FAB แสดง SnackBar เมื่อถูกคลิก
 
 **แก้ไขเปลี่ยนแปลง App Bar ให้แสดง คำว่า "Dev by" ตามด้วยชื่อนักศึกษา** แล้วบันทึกรูปผลการทดลอง
-```image
-บันทึกรูปที่นี่
-``` 
+
+<img width="1297" height="983" alt="image" src="https://github.com/user-attachments/assets/234daf19-989f-44f9-a0cc-7121049ce011" />
+<img width="1287" height="981" alt="image" src="https://github.com/user-attachments/assets/9e28b5dc-6a5b-4eea-858c-5ea8a9f6eb15" />
+
 ---
 
 ### การทดลองที่ 4: ใช้ AI ช่วย Generate UI Component (30 นาที)
