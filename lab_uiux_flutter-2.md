@@ -973,6 +973,9 @@ Add brief comments explaining each section.
 2. รัน App → ตรวจสอบว่าทุก Text อ่านออกหรือไหม
 3. มีสีไหนที่ contrast ต่ำเกินไปไหม (ตัวอักษรจางบนพื้นหลังจาง)
 4. เปลี่ยนกลับเป็น `ThemeMode.system`
+   
+<img width="1285" height="976" alt="image" src="https://github.com/user-attachments/assets/2d8fb7b1-a9d2-4e2f-8f31-6b6f0c8fa421" />
+<img width="1302" height="975" alt="image" src="https://github.com/user-attachments/assets/7ca40f12-b1af-449f-a96c-bcd94d0933b1" />
 
 
 // ยังไม่ต้องทำข้อ 5.2  5.3
